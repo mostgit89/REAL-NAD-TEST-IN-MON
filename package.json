@@ -24,3 +24,7 @@
     "postcss": "^8.4.0"
   }
 }
+{
+  "name": "real-nads-quizzes-frontend",
+  "version": "1.0.0",
+  "type
